@@ -16,5 +16,9 @@ namespace PruebaConexionGitHub
         {
             InitializeComponent();
         }
+        public static 
+            {
+ddddd
+}
     }
 }
